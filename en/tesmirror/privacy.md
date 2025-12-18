@@ -38,13 +38,11 @@ Our app operates entirely on your device and does not:
 
 TesMirror requires the following permissions to function:
 
-| Permission | Purpose |
-|------------|---------|
-| **Internet** | To stream screen content to Tesla browser via local network |
-| **Accessibility Service** | To perform touch actions on device when controlling from Tesla browser |
-| **System Settings** | To adjust screen brightness for battery saving |
-| **Notifications** | To display background service status |
-| **Foreground Service** | To maintain stable connection while app is in background |
+- **Internet**: To stream screen content to Tesla browser via local network
+- **Accessibility Service**: To perform touch actions on device when controlling from Tesla browser
+- **System Settings**: To adjust screen brightness for battery saving
+- **Notifications**: To display background service status
+- **Foreground Service**: To maintain stable connection while app is in background
 
 All data processed through these permissions stays on your device and local network. No data is transmitted to external servers.
 
