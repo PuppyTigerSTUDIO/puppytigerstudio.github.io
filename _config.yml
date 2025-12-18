@@ -1,0 +1,11 @@
+title: PuppyTigerStudio
+description: PuppyTigerStudio 공식 홈페이지
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# GitHub Pages 설정
+baseurl: ""
+url: ""
+
+# 언어 설정
+lang: ko
