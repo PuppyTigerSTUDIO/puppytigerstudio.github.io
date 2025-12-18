@@ -11,61 +11,74 @@ title: TesMirror Privacy Policy
 
 ---
 
-**Effective Date: January 1, 2024**
-
-PuppyTigerStudio ("Company") establishes and discloses the following Privacy Policy to protect users' personal information in accordance with applicable privacy laws when providing TesMirror ("App") services.
+**Last Updated: 2025-12-17**
 
 ---
 
-## 1. Personal Information Collected
+## Introduction
 
-This app does not collect any personal information.
-
----
-
-## 2. Purpose of Collection and Use
-
-This app does not collect personal information, therefore this section does not apply.
+PuppyTigerStudio ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we handle information when you use our mobile application.
 
 ---
 
-## 3. Retention Period
+## Information We Collect
 
-This app does not collect personal information, therefore this section does not apply.
+**TesMirror does not collect, store, or transmit any personal information.**
 
----
-
-## 4. Disclosure to Third Parties
-
-This app does not provide users' personal information to third parties.
-
----
-
-## 5. Destruction of Personal Information
-
-This app does not collect personal information, therefore this section does not apply.
+Our app operates entirely on your device and does not:
+- Collect personal identification information
+- Track your location
+- Access your contacts or messages
+- Store any data on external servers
+- Share any information with third parties
 
 ---
 
-## 6. User Rights
+## Permissions Used
 
-Users may request access to, correction of, or deletion of their personal information at any time.
+TesMirror requires the following permissions to function:
 
----
+| Permission | Purpose |
+|------------|---------|
+| **Internet** | To stream screen content to Tesla browser via local network |
+| **Accessibility Service** | To perform touch actions on device when controlling from Tesla browser |
+| **System Settings** | To adjust screen brightness for battery saving |
+| **Notifications** | To display background service status |
+| **Foreground Service** | To maintain stable connection while app is in background |
 
-## 7. Privacy Officer
-
-- Contact: PuppyTigerStudio
-- Email: puppytigerstudio@gmail.com
-
----
-
-## 8. Changes to Privacy Policy
-
-This Privacy Policy may be modified due to changes in laws, policies, or services. Any changes will be announced on this page.
+All data processed through these permissions stays on your device and local network. No data is transmitted to external servers.
 
 ---
 
-## Contact
+## Third-Party Services
 
-For privacy-related inquiries, please contact puppytigerstudio@gmail.com.
+TesMirror uses the following third-party services:
+
+- **Google AdMob**: For displaying advertisements. AdMob may collect device information for ad personalization. Please refer to [Google's Privacy Policy](https://policies.google.com/privacy).
+- **Firebase Crashlytics**: For crash reporting to improve app stability. Crash reports may include device information but no personal data. Please refer to [Firebase Privacy Policy](https://firebase.google.com/support/privacy).
+
+---
+
+## Data Security
+
+Since we do not collect or store personal data, there is no risk of your personal information being compromised through our app.
+
+---
+
+## Children's Privacy
+
+TesMirror does not knowingly collect any information from children under 13 years of age.
+
+---
+
+## Changes to This Policy
+
+We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date.
+
+---
+
+## Contact Us
+
+If you have any questions about this privacy policy, please contact us at:
+
+**Email**: puppytigerstudio@gmail.com
