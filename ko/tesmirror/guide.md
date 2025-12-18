@@ -5,11 +5,7 @@ title: TesMirror 사용 가이드
 
 # TesMirror 사용 가이드
 
-[English](../../en/tesmirror/guide.md) | **한국어**
-
-[홈으로 돌아가기](../index.md)
-
----
+ **한국어** | [English](../../en/tesmirror/guide.md)
 
 ## 소개
 

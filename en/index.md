@@ -7,16 +7,11 @@ title: PuppyTigerStudio - Home
 
 **English** | [한국어](../ko/index.md)
 
----
-
-PuppyTigerStudio is a studio that develops useful apps for users.
-
----
-
 ## Apps
 
 ### TesMirror
-
+#### - Mirror and control your Android device's screen from your Tesla browser.
+- [Google PlayStore Download]()
 - [User Guide](./tesmirror/guide.md)
 - [Privacy Policy](./tesmirror/privacy.md)
 

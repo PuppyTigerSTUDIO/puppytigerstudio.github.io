@@ -7,10 +7,6 @@ title: TesMirror User Guide
 
 **English** | [한국어](../../ko/tesmirror/guide.md)
 
-[Back to Home](../index.md)
-
----
-
 ## Introduction
 
 TesMirror is an app developed by PuppyTigerStudio.

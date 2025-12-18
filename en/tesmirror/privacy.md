@@ -7,10 +7,6 @@ title: TesMirror Privacy Policy
 
 **English** | [한국어](../../ko/tesmirror/privacy.md)
 
-[Back to Home](../index.md)
-
----
-
 **Last Updated: 2025-12-17**
 
 ---

@@ -5,11 +5,7 @@ title: TesMirror 개인정보처리방침
 
 # TesMirror 개인정보처리방침
 
-[English](../../en/tesmirror/privacy.md) | **한국어**
-
-[홈으로 돌아가기](../index.md)
-
----
+ **한국어** | [English](../../en/tesmirror/privacy.md)
 
 **최종 수정일: 2025-12-17**
 
