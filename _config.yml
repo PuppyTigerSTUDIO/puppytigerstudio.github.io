@@ -6,6 +6,7 @@ markdown: kramdown
 # GitHub Pages 설정
 baseurl: ""
 url: ""
+repository: PuppyTigerSTUDIO/puppytigerstudio.github.io
 
 # 언어 설정
 lang: ko
