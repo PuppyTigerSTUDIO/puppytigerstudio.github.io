@@ -3,13 +3,16 @@ layout: default
 title: PuppyTigerStudio - 홈
 ---
 
+<img src="../images/pts_logo.png" alt="PuppyTigerStudio" width="50%">
+
 # PuppyTigerStudio
 
 **한국어** | [English](../en/index.md)
 
 ## 앱 목록
 
-### TesMirror
+### TesMirror <img src="../images/app_icon_tesmirror.png" alt="TesMirror" width="32" style="vertical-align: middle;">
+
 #### - 테슬라 브라우저에서 안드로이드 기기의 화면을 미러링 하고 제어합니다.
 - [구글 플레이스토어 다운로드]()
 - [사용 가이드](./tesmirror/guide.md)

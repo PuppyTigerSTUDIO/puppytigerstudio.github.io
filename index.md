@@ -3,6 +3,8 @@ layout: default
 title: PuppyTigerStudio
 ---
 
+<img src="./images/pts_logo.png" alt="PuppyTigerStudio" width="50%">
+
 # PuppyTigerStudio
 
 Welcome / 환영합니다
