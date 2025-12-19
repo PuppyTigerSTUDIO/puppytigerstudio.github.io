@@ -1,6 +1,7 @@
 title: PuppyTigerStudio
 description: PuppyTigerStudio 공식 홈페이지
 theme: jekyll-theme-minimal
+logo: /images/pts_logo.png
 markdown: kramdown
 
 # GitHub Pages 설정

@@ -3,8 +3,6 @@ layout: default
 title: PuppyTigerStudio - 홈
 ---
 
-<img src="../images/pts_logo.png" alt="PuppyTigerStudio" width="50%">
-
 # PuppyTigerStudio
 
 **한국어** | [English](../en/index.md)
