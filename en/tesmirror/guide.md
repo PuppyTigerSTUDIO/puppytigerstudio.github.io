@@ -69,10 +69,11 @@ Please allow the permissions requested when launching the app:
 - Screen recording permission (for mirroring)
 - Accessibility service permission (for touch control)
 - Notification permission
+- Battery optimization exclusion (for uninterrupted mirroring in background)
 
 <img src="../../images/guide/02_setup.png" alt="Initial Setup Steps" width="100%">
 
-*4-step initial setup: Notification permission → Remote control permission → Accessibility settings → Mirroring permission*
+*5-step initial setup: Notification permission → Remote control permission → Accessibility settings → Battery optimization exclusion → Mirroring permission*
 
 ### Step 3: Setup Complete
 
