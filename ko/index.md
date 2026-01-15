@@ -16,6 +16,14 @@ title: PuppyTigerStudio - 홈
 - [사용 가이드](./tesmirror/guide.md)
 - [개인정보처리방침](./tesmirror/privacy.md)
 
+### Phase <img src="../images/app_icon_phase.png" alt="Phase" width="32" style="vertical-align: middle;">
+
+#### - 월경주기 기록 및 예상 생리일, 가임기, 배란일을 알려줍니다.
+- [구글 플레이스토어 다운로드]()
+- [애플 앱스토어 다운로드]()
+- [사용 가이드](./phase/guide.md)
+- [개인정보처리방침](./phase/privacy.md)
+
 ---
 
 ## 문의
