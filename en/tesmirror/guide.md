@@ -63,6 +63,8 @@ A simple initial setup is required when using TesMirror for the first time. It t
 
 Search for **TesMirror** on Google Play Store and install it.
 
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">](https://play.google.com/store/apps/details?id=com.puppytiger.tesmirror)
+
 ### Step 2: Grant Permissions
 
 Please allow the permissions requested when launching the app:

@@ -63,6 +63,8 @@ TesMirror를 처음 사용할 때 간단한 초기 설정이 필요합니다. �
 
 Google Play 스토어에서 **TesMirror**를 검색하여 설치합니다.
 
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">](https://play.google.com/store/apps/details?id=com.puppytiger.tesmirror)
+
 ### 2단계: 권한 허용
 
 앱 실행 시 요청하는 권한들을 허용해주세요:

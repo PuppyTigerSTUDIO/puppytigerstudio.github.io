@@ -12,7 +12,7 @@ title: PuppyTigerStudio - Home
 ### TesMirror <img src="../images/app_icon_tesmirror.png" alt="TesMirror" width="32" style="vertical-align: middle;">
 
 #### - Mirror and control your Android device's screen from your Tesla browser.
-- [Google PlayStore Download]()
+- [Google PlayStore Download](https://play.google.com/store/apps/details?id=com.puppytiger.tesmirror)
 - [User Guide](./tesmirror/guide.md)
 - [Privacy Policy](./tesmirror/privacy.md)
 
