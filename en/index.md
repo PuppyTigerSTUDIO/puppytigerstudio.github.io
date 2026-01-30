@@ -24,6 +24,14 @@ title: PuppyTigerStudio - Home
 - [User Guide](./phase/guide.md)
 - [Privacy Policy](./phase/privacy.md)
 
+### TamTam <img src="../images/app_icon_tamtam.png" alt="TamTam" width="32" style="vertical-align: middle;">
+
+#### - Set timers easily with a circular drag dial and receive alarms even in the background.
+- [Google PlayStore Download]()
+- [Apple App Store Download]()
+- [User Guide](./tamtam/guide.md)
+- [Privacy Policy](./tamtam/privacy.md)
+
 ---
 
 ## Contact
