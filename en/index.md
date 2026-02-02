@@ -14,6 +14,7 @@ title: PuppyTigerStudio - Home
 #### - Mirror and control your Android device's screen from your Tesla browser.
 - [Google PlayStore Download](https://play.google.com/store/apps/details?id=com.puppytiger.tesmirror)
 - [User Guide](./tesmirror/guide.md)
+- [Terms of Service](./tesmirror/terms.md)
 - [Privacy Policy](./tesmirror/privacy.md)
 
 ### Phase <img src="../images/app_icon_phase.png" alt="Phase" width="32" style="vertical-align: middle;">
@@ -22,6 +23,7 @@ title: PuppyTigerStudio - Home
 - [Google PlayStore Download]()
 - [Apple App Store Download]()
 - [User Guide](./phase/guide.md)
+- [Terms of Service](./phase/terms.md)
 - [Privacy Policy](./phase/privacy.md)
 
 ### TamTam <img src="../images/app_icon_tamtam.png" alt="TamTam" width="32" style="vertical-align: middle;">
@@ -30,6 +32,7 @@ title: PuppyTigerStudio - Home
 - [Google PlayStore Download]()
 - [Apple App Store Download]()
 - [User Guide](./tamtam/guide.md)
+- [Terms of Service](./tamtam/terms.md)
 - [Privacy Policy](./tamtam/privacy.md)
 
 ---

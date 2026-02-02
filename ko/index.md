@@ -14,6 +14,7 @@ title: PuppyTigerStudio - 홈
 #### - 테슬라 브라우저에서 안드로이드 기기의 화면을 미러링 하고 제어합니다.
 - [구글 플레이스토어 다운로드](https://play.google.com/store/apps/details?id=com.puppytiger.tesmirror)
 - [사용 가이드](./tesmirror/guide.md)
+- [이용약관](./tesmirror/terms.md)
 - [개인정보처리방침](./tesmirror/privacy.md)
 
 ### Phase <img src="../images/app_icon_phase.png" alt="Phase" width="32" style="vertical-align: middle;">
@@ -22,6 +23,7 @@ title: PuppyTigerStudio - 홈
 - [구글 플레이스토어 다운로드]()
 - [애플 앱스토어 다운로드]()
 - [사용 가이드](./phase/guide.md)
+- [이용약관](./phase/terms.md)
 - [개인정보처리방침](./phase/privacy.md)
 
 ### TamTam <img src="../images/app_icon_tamtam.png" alt="TamTam" width="32" style="vertical-align: middle;">
@@ -30,6 +32,7 @@ title: PuppyTigerStudio - 홈
 - [구글 플레이스토어 다운로드]()
 - [애플 앱스토어 다운로드]()
 - [사용 가이드](./tamtam/guide.md)
+- [이용약관](./tamtam/terms.md)
 - [개인정보처리방침](./tamtam/privacy.md)
 
 ---
