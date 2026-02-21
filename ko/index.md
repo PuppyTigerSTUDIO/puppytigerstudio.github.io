@@ -20,7 +20,7 @@ title: PuppyTigerStudio - 홈
 ### Phase <img src="../images/app_icon_phase.png" alt="Phase" width="32" style="vertical-align: middle;">
 
 #### - 월경주기 기록 및 예상 생리일, 가임기, 배란일을 알려줍니다.
-- [구글 플레이스토어 다운로드]()
+- [구글 플레이스토어 다운로드](https://play.google.com/store/apps/details?id=com.puppytiger.phase)
 - [애플 앱스토어 다운로드]()
 - [사용 가이드](./phase/guide.md)
 - [이용약관](./phase/terms.md)
@@ -29,7 +29,7 @@ title: PuppyTigerStudio - 홈
 ### TamTam <img src="../images/app_icon_tamtam.png" alt="TamTam" width="32" style="vertical-align: middle;">
 
 #### - 원형 드래그 타이머로 간편하게 시간을 설정하고 알람을 받습니다.
-- [구글 플레이스토어 다운로드]()
+- [구글 플레이스토어 다운로드](https://play.google.com/store/apps/details?id=com.puppytiger.tamtam)
 - [애플 앱스토어 다운로드]()
 - [사용 가이드](./tamtam/guide.md)
 - [이용약관](./tamtam/terms.md)
