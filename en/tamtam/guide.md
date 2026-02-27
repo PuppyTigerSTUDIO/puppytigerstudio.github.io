@@ -45,9 +45,9 @@ TamTam is an intuitive countdown timer app with a circular drag interface.
 
 ### 1. Circular Drag Timer
 
-Drag the circular dial in the center of the screen to set the timer duration. You can set a time from 0 to 60 minutes, with haptic feedback each time the minute changes.
+Drag the circular dial in the center of the screen to set the timer duration. You can set a time from 0 to 60 minutes, with haptic feedback as the set time changes so you can intuitively feel the current value while dragging.
 
-After setting the timer, tap the **Start** button at the bottom to begin the countdown.
+After you release the dial, the countdown will automatically begin after a brief moment.
 
 <img src="../../images/guide/tamtam/tamtam_main_timer.png" alt="Timer Running" width="50%">
 
@@ -146,7 +146,7 @@ Search for **TamTam** on Google Play Store or Apple App Store and install it.
 ### Step 2: Using a Single Timer
 
 1. On Page 1 (Main Timer), drag the circular dial to set the time
-2. Tap the **Start** button at the bottom
+2. Release the dial and the timer will automatically start after a brief moment
 3. An alarm will sound when the timer completes
 
 ### Step 3: Using Schedules
